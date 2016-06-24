@@ -122,18 +122,54 @@ nav li {
 FOOTER
 **********************/
 
+footer  {
+	display: inline-block;
+}
 
+
+/*******************
+PAGE OUR EXPERIENCE
+********************/
+
+#paragraph {
+	display: inline-block;
+	margin: 50px 0 50px 0;
+	width: 100%;
+
+
+}
 
 /*******************
 PAGE ABOUTUS
 ********************/
-
+#aboutlist {
+	display: inline-block;
+	margin: 30px 0 50px 0;
+	width: 100%;
+	list-style: none;
+}
 
 
 /********************
 PAGE CONTACT
 ********************/
 
+#contactus {
+	display: inline-block;
+	margin: 50px 0;
+	width: 100%;
+	list-style: none;
+}
+
+/********************
+IMAGES
+********************/
+
+#kitchenimg {
+	display: inline-block;
+	list-style: none;
+	width: 100%;
+}
 
 
 /********************
