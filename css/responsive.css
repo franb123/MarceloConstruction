@@ -112,10 +112,12 @@ IMAGES
 #kitchenimg li {
 	
 	display: inline-block;
-	
 	float: left;
 	max-width: 980;
     margin: 0 auto;
+    padding: 0 5px;
+    margin-bottom: 2px;
+
 }
 
 

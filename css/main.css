@@ -171,6 +171,11 @@ IMAGES
 	width: 100%;
 }
 
+#title {
+	font-size: 2.0em;
+	margin-bottom: 20px;
+}
+
 
 /********************
 COLORS
